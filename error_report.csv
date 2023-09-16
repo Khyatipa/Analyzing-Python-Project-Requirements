@@ -1,0 +1,467 @@
+Project Name,Error Type
+0xANDREW_content-aggregator,"ERROR: Failed on file: .\feeder.pySyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+"
+0xANDREW_nba-roster,"ERROR: Failed on file: .\nba.pySyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+"
+0xANDREW_niagara-wishlist-exporter,"ERROR: Failed on file: .\cart.pySyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 869: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 155: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+except TypeError, exc:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 767: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8d in position 76: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+IndentationError: unexpected indent
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 570: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+except pyinotify.NotifierError, err:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'exec'. Did you mean exec(...)?
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'exec'. Did you mean exec(...)?
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 474: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 349: character maps to <undefined>
+TabError: inconsistent use of tabs and spaces in indentation
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+except IOError, yaml.error.YAMLError:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+TabError: inconsistent use of tabs and spaces in indentation
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'exec'. Did you mean exec(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8d in position 3657: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 914: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+except ClientHttpError, e:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: multiple exception types must be parenthesized
+TabError: inconsistent use of tabs and spaces in indentation
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+TabError: inconsistent use of tabs and spaces in indentation
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: expected ':'
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 7719: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 4981: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 276: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 343: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 629: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 9745: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+except OSError, e:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 371-372: truncated \uXXXX escape
+raise template.TemplateSyntaxError, ""%s tag requires arguments"" % token.contents.split()[0]
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 353: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 1985: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+print ""KeyError"", ke
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 962: character maps to <undefined>
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8d in position 1803: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 3552: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 721: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 249: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 416: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 1440: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 308: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 37559: character maps to <undefined>
+except urllib2.HTTPError, e:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 3662: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8d in position 1905: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 174: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 74411: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid character '»' (U+00BB)
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8d in position 4979: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 1310: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+print ""HTTP Error"", response.status_code
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 3005: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 4235: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid character '»' (U+00BB)
+print ""Validation Error""
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+except OSError, e:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 221: character maps to <undefined>
+SyntaxError: invalid syntax
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 7042: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+TabError: inconsistent use of tabs and spaces in indentation
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 1935: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 8518: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 222: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 4237: character maps to <undefined>
+SyntaxError: '(' was never closed
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+except TemplateSyntaxError, e:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 2822: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+except request.URLError, ex:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 15949: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 23913: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 6087: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: multiple exception types must be parenthesized
+TabError: inconsistent use of tabs and spaces in indentation
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 365: character maps to <undefined>
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8d in position 308: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 623: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 34574: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 34574: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8d in position 3836: character maps to <undefined>
+SyntaxError: invalid hexadecimal literal
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 653: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 18436: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+except siptracklib.errors.SiptrackError, e:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: invalid syntax
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid character '»' (U+00BB)
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8d in position 2304: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 194: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 9021: character maps to <undefined>
+except Error, e:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 152646: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 357: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 110: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 299: character maps to <undefined>
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 694: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+SyntaxError: invalid syntax
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 146: character maps to <undefined>
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 5428: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: multiple exception types must be parenthesized
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8f in position 1057: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 844: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+TabError: inconsistent use of tabs and spaces in indentation
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 1903: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8d in position 1722: character maps to <undefined>
+except urllib2.HTTPError, err:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: invalid syntax
+except (yaml.parser.ParserError, AnyMarkupError), e:
+SyntaxError: multiple exception types must be parenthesized
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 186: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x8d in position 2227: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 678: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'exec'. Did you mean exec(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 120: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 3646: character maps to <undefined>
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 2114: character maps to <undefined>
+"
